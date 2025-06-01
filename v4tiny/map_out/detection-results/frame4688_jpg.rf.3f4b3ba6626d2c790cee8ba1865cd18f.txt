@@ -1,0 +1,14 @@
+thermal_defect 0.0780 169 2 212 62
+thermal_defect 0.0549 182 207 231 290
+thermal_defect 0.0079 503 518 542 592
+thermal_defect 0.0028 441 466 488 546
+thermal_defect 0.0019 501 473 543 559
+thermal_defect 0.0018 167 212 212 294
+thermal_defect 0.0015 449 142 494 225
+thermal_defect 0.0015 143 134 186 217
+thermal_defect 0.0013 439 523 482 596
+thermal_defect 0.0012 406 528 446 600
+thermal_defect 0.0012 490 371 533 458
+thermal_defect 0.0012 466 375 507 463
+thermal_defect 0.0011 443 1 491 73
+thermal_defect 0.0010 168 3 207 27

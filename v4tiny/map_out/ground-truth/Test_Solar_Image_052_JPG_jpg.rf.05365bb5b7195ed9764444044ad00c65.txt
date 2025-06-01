@@ -1,0 +1,1 @@
+thermal_defect 51 130 103 222

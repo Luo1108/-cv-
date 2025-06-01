@@ -1,0 +1,6 @@
+thermal_defect 204 395 238 420
+thermal_defect 341 444 371 469
+thermal_defect 341 422 371 446
+thermal_defect 341 400 372 424
+thermal_defect 342 376 372 401
+thermal_defect 204 114 237 139

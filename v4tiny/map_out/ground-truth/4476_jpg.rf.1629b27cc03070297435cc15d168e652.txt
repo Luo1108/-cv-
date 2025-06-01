@@ -1,0 +1,1 @@
+thermal_defect 192 382 229 414
